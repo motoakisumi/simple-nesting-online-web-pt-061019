@@ -56,6 +56,7 @@ def dennis_ritchies_language
         }
      }
   programmer_hash[:dennis_ritchie][:languages][0]
+end
 
 def adding_matz
 # add the following information to the top level of programmer_hash
